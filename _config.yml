@@ -16,8 +16,8 @@
 title: "CSS Week 1"
 description: CSS Bootcamp, Summer 2022 at UC San Diego
 tagline: "Week 1: Python"
-baseurl: '' # the subpath of your site, e.g. /blog
-# url: 'https://dsc80.com' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/css-python-bootcamp' # the subpath of your site, e.g. /blog
+url: 'https://rampure.org' # the base hostname & protocol for your site, e.g. http://example.com
 author: Suraj Rampure
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
