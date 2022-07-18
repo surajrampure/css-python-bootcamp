@@ -1,5 +1,3 @@
-# css-python-bootcamp
+# python-css-bootcamp
 
-Public repository for the CSS Python Bootcamp.
-- The `main` branch contains all code that students will work with (lectures and labs).
-- The `gh-pages` branch contains the course website (for Week 1, at least).
+Website for Week 1 (Python) of the CSS Bootcamp at UC San Diego.
