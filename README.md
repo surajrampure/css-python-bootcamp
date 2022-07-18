@@ -1,3 +1,3 @@
-# python-css-bootcamp
+# css-python-bootcamp
 
-Website for Week 1 (Python) of the CSS Bootcamp at UC San Diego.
+Website for Week 1 (Python) of the Computational Social Sciences Bootcamp at UC San Diego.
