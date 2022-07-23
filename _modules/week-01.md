@@ -1,11 +1,10 @@
 ---
-title: "July 25th: Introduction to Jupyter Notebooks and Python"
+title: "July 25th"
 ---
 
 Block 1A
-: **Lecture 1A**{: .label .label-blue } [Using Jupyter Notebooks](#)
-: **Lab 1A**{: .label .label-yellow } [Running Your First Python Program!](#)
+: Jupyter Notebooks, Arithmetic, and Data Types
+    : [**Lecture**{: .label .label-blue }](#) [**Lab**{: .label .label-yellow }](#)
 
 Block 1B
-: **Lecture 1B**{: .label .label-blue } [Data Types, Variables, and Lists](#)
-: **Lab 1B**{: .label .label-yellow } [Practice](#)
+: Variables, Strings, and Functions
