@@ -1,0 +1,10 @@
+test = {   'name': 'q3b',
+    'points': 2,
+    'suites': [   {   'cases': [   {'code': ">>> only_uppercase('University of California, SaN DIEgo') == 'UCSNDIE'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> only_uppercase('now THiS!') == 'THS'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> only_uppercase('CSS Summer 2022') == 'CSSS'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> only_uppercase('what if they are all lowercase?') == ''\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
