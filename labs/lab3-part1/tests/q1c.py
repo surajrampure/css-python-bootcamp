@@ -1,0 +1,10 @@
+test = {   'name': 'q1c',
+    'points': 2,
+    'suites': [   {   'cases': [   {'code': '>>> is_858_fixed(8585342200)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> is_858_fixed(8581002003)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> not is_858_fixed(858123)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> not is_858_fixed(5102327111)\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
