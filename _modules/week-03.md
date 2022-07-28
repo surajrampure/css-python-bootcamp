@@ -8,4 +8,4 @@ Block 3A
 
 Block 3B
 : Dictionaries
-    : [lecture](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/surajrampure/css-python-bootcamp&subPath=lectures/lec3b/lec3b.ipynb) • [lab (part 3)](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/surajrampure/css-python-bootcamp&subPath=labs/lab3-part3/lab3-part3.ipynb)
+    : [lecture](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/surajrampure/css-python-bootcamp&subPath=lectures/lec3b/lec3b.ipynb)
