@@ -1,0 +1,10 @@
+test = {   'name': 'q1c',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(humid_probs, np.ndarray)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.isclose(humid_probs[0], 0.32)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.isclose(humid_probs[1], 0.17)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.isclose(humid_probs[2], 0.51)\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

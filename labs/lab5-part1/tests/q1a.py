@@ -1,0 +1,11 @@
+test = {   'name': 'q1a',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(probs, np.ndarray)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.isclose(probs[0, 0], 0.2)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.isclose(probs[1, 2], 0.1)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.isclose(probs[2, 1], 0.06)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.isclose(probs[2, 2], 0.4)\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

@@ -1,0 +1,10 @@
+test = {   'name': 'q1a',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(file_name, str)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': ">>> file_name[:5] == 'data/'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> file_name[-5:] == '.json'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> file_name == 'data/airports-lat-lon-name.json'\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

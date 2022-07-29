@@ -1,0 +1,10 @@
+test = {   'name': 'q1c',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> callable(lat_lon)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': ">>> np.allclose(lat_lon('SAN'), (32.7336006165, -117.190002441))\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> np.allclose(lat_lon('DTW'), (42.212398529052734, -83.35340118408203))\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> np.allclose(lat_lon('BJV'), (37.25059890749999, 27.6643009186))\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

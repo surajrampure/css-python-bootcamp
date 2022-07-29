@@ -1,0 +1,10 @@
+test = {   'name': 'q1b',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(airports, dict)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': ">>> 'SAN' in airports\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> 'JFK' in airports\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> airports['YYZ']['name'] == 'Lester B. Pearson International Airport'\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
